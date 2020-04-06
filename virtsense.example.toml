@@ -1,0 +1,11 @@
+Min = 20
+Max = 6
+Generator = "sine"
+MessageIDFile = "message_id.txt"
+Sensor = "TC"
+Unit = "VirtSenseA"
+MQTTEndpoint = "tcp://fyp.willtc.uk:1883"
+ClientID = "changeme"
+Topic = "5e89dbac0f6b1b3b240f1c00/sensor/VirtMeshA/TC"
+Username = "get from https://fyp.willtc.uk/sensors/add"
+Password = "jwt"
